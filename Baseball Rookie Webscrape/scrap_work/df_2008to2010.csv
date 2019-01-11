@@ -1,0 +1,908 @@
+birth_state,name,rookie_yr
+Panama,Manny Acosta,2008
+Norway,Josh Anderson,2008
+FL,Robert Andino,2008
+MA,Matt Antonelli,2008
+Dominican Republic,Jose Arredondo,2008
+NY,Mike Aviles,2008
+MI,Homer Bailey,2008
+CA,John Baker,2008
+Curacao,Wladimir Balentien,2008
+CA,Collin Balester,2008
+MD,Josh Banks,2008
+CA,Brian Barton,2008
+MO,Daric Barton,2008
+NC,Brian Bass,2008
+Dominican Republic,Randor Bierd,2008
+OK,Nick Blackburn,2008
+Venezuela,Gregor Blanco,2008
+MO,Brandon Boggs,2008
+Dominican Republic,Emilio Bonifacio,2008
+TX,Michael Bourn,2008
+CA,John Bowker,2008
+GA,Blaine Boyer,2008
+CT,Craig Breslow,2008
+TX,Jay Bruce,2008
+TX,Clay Buchholz,2008
+DC,Emmanuel Burriss,2008
+SC,Jared Burton,2008
+FL,Brian Buscher,2008
+Mexico,Jorge Campillo,2008
+CT,Jesse Carlson,2008
+CA,Jack Cassel,2008
+OR,Kory Casto,2008
+CA,Joba Chamberlain,2008
+TX,Rocky Cherry,2008
+IA,Jeff Clement,2008
+GA,Buck Coats,2008
+LA,Roy Corcoran,2008
+Dominican Republic,Johnny Cueto,2008
+Jamaica,Chris Davis,2008
+KS,Joey Devine,2008
+MO,Blake DeWitt,2008
+MO,Joe Dillon,2008
+CA,Phil Dumatrait,2008
+AZ,Shelley Duncan,2008
+Mexico,German Duran,2008
+OR,Jacoby Ellsbury,2008
+CA,Ben Francisco,2008
+Japan,Kosuke Fukudome,2008
+Venezuela,Armando Galarraga,2008
+MA,Sean Gallagher,2008
+CA,Dan Giese,2008
+Dominican Republic,Carlos Gomez,2008
+Venezuela,Carlos Gonzalez,2008
+Mexico,Edgar Gonzalez,2008
+TX,Carlos Guevara,2008
+Nicaragua,Devern Hansack,2008
+NY,Craig Hansen,2008
+NC,Matt Harrison,2008
+CA,Nathan Haynes,2008
+CO,Chase Headley,2008
+Dominican Republic,Anderson Hernandez,2008
+Venezuela,Luis Hernandez,2008
+CO,Luke Hochevar,2008
+Australia,Justin Huber,2008
+OR,Nick Hundley,2008
+PA,Zach Jackson,2008
+Dominican Republic,Kelvin Jimenez,2008
+CA,Charlton Jimerson,2008
+TN,Jim Johnson,2008
+DE,Brandon Jones,2008
+FL,Ryan Jorgensen,2008
+FL,Matthew Joyce,2008
+Curacao,Jair Jurrjens,2008
+CA,Ian Kennedy,2008
+TX,Clayton Kershaw,2008
+CA,Brandon Knight,2008
+Japan,Masahide Kobayashi,2008
+Japan,Hiroki Kuroda,2008
+MD,Aaron Laffey,2008
+MA,Bryan LaHair,2008
+NY,John Lannan,2008
+KS,Andy LaRoche,2008
+OH,Jensen Lewis,2008
+Dominican Republic,Radhames Liz,2008
+CA,Evan Longoria,2008
+SD,Shane Loux,2008
+TX,Mark Lowe,2008
+OR,Jed Lowrie,2008
+FL,Charlie Manning,2008
+FL,Nick Masset,2008
+Jamaica,Justin Masterson,2008
+WI,Joe Mather,2008
+CA,Paul McAnulty,2008
+CA,Scott McClain,2008
+MO,Kyle McClellan,2008
+Mexico,Luis Mendoza,2008
+IL,Pat Misch,2008
+Venezuela,Franklin Morales,2008
+CA,Nyjer Morgan,2008
+OH,Charlie Morton,2008
+GA,Brandon Moss,2008
+Venezuela,Edward Mujica,2008
+CA,Carlos Muniz,2008
+NY,Daniel Murphy,2008
+NY,David Murphy,2008
+IN,Neal Musser,2008
+TX,Brian Myrow,2008
+CA,Joe Nelson,2008
+Venezuela,Ivan Ochoa,2008
+TX,Ross Ohlendorf,2008
+CA,Garrett Olson,2008
+CA,Manny Parra,2008
+FL,Eric Patterson,2008
+FL,Steve Pearce,2008
+Dominican Republic,Jailen Peguero,2008
+MN,Glen Perkins,2008
+Venezuela,Martin Prado,2008
+IL,David Purcey,2008
+Venezuela,Guillermo Quiroz,2008
+TX,Alexei Ramirez,2008
+Dominican Republic,Edwar Ramirez,2008
+FL,Chris Resop,2008
+CA,Greg Reynolds,2008
+FL,Shawn Riggans,2008
+CA,Royce Ring,2008
+AL,Connor Robertson,2008
+FL,Sean Rodriguez,2008
+Venezuela,Alex Romero,2008
+VA,Josh Rupe,2008
+Dominican Republic,Juan Salas,2008
+Dominican Republic,Humberto Sanchez,2008
+Venezuela,Pablo Sandoval,2008
+NY,Dennis Sarfate,2008
+MO,Max Scherzer,2008
+NV,Nate Schierholtz,2008
+CA,Doug Slaten,2008
+MD,Greg Smith,2008
+MD,Joe Smith,2008
+Puerto Rico,Geovany Soto,2008
+FL,Denard Span,2008
+KY,Ryan Speier,2008
+GA,Levale Speigner,2008
+CA,Ian Stewart,2008
+United Kingdom,Phil Stockman,2008
+IA,Ryan Sweeney,2008
+WA,Ty Taubenheim,2008
+TX,Curtis Thigpen,2008
+Dominican Republic,Eugenio Velez,2008
+Dominican Republic,Jose Veras,2008
+FL,Chris Volstad,2008
+Canada,Joey Votto,2008
+IN,Cory Wade,2008
+OK,Les Walrond,2008
+AL,Ehren Wassermann,2008
+FL,Chris Waters,2008
+CA,Brian Wolfe,2008
+TX,Brandon Wood,2008
+AL,Wesley Wright,2008
+MO,Delwyn Young,2008
+KS,Brad Ziegler,2008
+Panama,Manny Acosta,2008
+Dominican Republic,Jose Arredondo,2008
+MI,Homer Bailey,2008
+CA,John Baker,2008
+CA,Collin Balester,2008
+MD,Josh Banks,2008
+NC,Brian Bass,2008
+Dominican Republic,Randor Bierd,2008
+OK,Nick Blackburn,2008
+GA,Blaine Boyer,2008
+CT,Craig Breslow,2008
+TX,Clay Buchholz,2008
+SC,Jared Burton,2008
+Mexico,Jorge Campillo,2008
+CT,Jesse Carlson,2008
+CA,Jack Cassel,2008
+CA,Joba Chamberlain,2008
+TX,Rocky Cherry,2008
+LA,Roy Corcoran,2008
+Dominican Republic,Johnny Cueto,2008
+Jamaica,Chris Davis,2008
+KS,Joey Devine,2008
+CA,Phil Dumatrait,2008
+Venezuela,Armando Galarraga,2008
+MA,Sean Gallagher,2008
+CA,Dan Giese,2008
+Dominican Republic,Carlos Gomez,2008
+TX,Carlos Guevara,2008
+Nicaragua,Devern Hansack,2008
+NY,Craig Hansen,2008
+NC,Matt Harrison,2008
+CO,Luke Hochevar,2008
+PA,Zach Jackson,2008
+Dominican Republic,Kelvin Jimenez,2008
+TN,Jim Johnson,2008
+Curacao,Jair Jurrjens,2008
+CA,Ian Kennedy,2008
+TX,Clayton Kershaw,2008
+CA,Brandon Knight,2008
+Japan,Masahide Kobayashi,2008
+Japan,Hiroki Kuroda,2008
+MD,Aaron Laffey,2008
+NY,John Lannan,2008
+OH,Jensen Lewis,2008
+Dominican Republic,Radhames Liz,2008
+SD,Shane Loux,2008
+TX,Mark Lowe,2008
+FL,Charlie Manning,2008
+FL,Nick Masset,2008
+Jamaica,Justin Masterson,2008
+WI,Joe Mather,2008
+MO,Kyle McClellan,2008
+Mexico,Luis Mendoza,2008
+IL,Pat Misch,2008
+Venezuela,Franklin Morales,2008
+OH,Charlie Morton,2008
+Venezuela,Edward Mujica,2008
+CA,Carlos Muniz,2008
+NY,David Murphy,2008
+IN,Neal Musser,2008
+CA,Joe Nelson,2008
+TX,Ross Ohlendorf,2008
+CA,Garrett Olson,2008
+CA,Manny Parra,2008
+Dominican Republic,Jailen Peguero,2008
+MN,Glen Perkins,2008
+IL,David Purcey,2008
+TX,Alexei Ramirez,2008
+Dominican Republic,Edwar Ramirez,2008
+FL,Chris Resop,2008
+CA,Greg Reynolds,2008
+CA,Royce Ring,2008
+AL,Connor Robertson,2008
+VA,Josh Rupe,2008
+Dominican Republic,Juan Salas,2008
+Dominican Republic,Humberto Sanchez,2008
+Venezuela,Pablo Sandoval,2008
+NY,Dennis Sarfate,2008
+MO,Max Scherzer,2008
+CA,Doug Slaten,2008
+MD,Greg Smith,2008
+MD,Joe Smith,2008
+KY,Ryan Speier,2008
+GA,Levale Speigner,2008
+United Kingdom,Phil Stockman,2008
+WA,Ty Taubenheim,2008
+Dominican Republic,Jose Veras,2008
+FL,Chris Volstad,2008
+IN,Cory Wade,2008
+OK,Les Walrond,2008
+AL,Ehren Wassermann,2008
+FL,Chris Waters,2008
+CA,Brian Wolfe,2008
+AL,Wesley Wright,2008
+KS,Brad Ziegler,2008
+Dominican Republic,Winston Abreu,2009
+Mexico,Alfredo Aceves,2009
+Puerto Rico,Jonathan Albaladejo,2009
+MD,Brett Anderson,2009
+Venezuela,Elvis Andrus,2009
+NY,Alberto Arias,2009
+Dominican Republic,Joaquin Arias,2009
+Venezuela,Jose Ascanio,2009
+LA,Michael Aubrey,2009
+GA,Burke Badenhop,2009
+NJ,Andrew Bailey,2009
+WA,Jeff Bailey,2009
+TX,Daniel Bard,2009
+CA,Brian Barden,2009
+Dominican Republic,Antonio Bastardo,2009
+Venezuela,Yorman Bazardo,2009
+GA,Gordon Beckham,2009
+Venezuela,Ronald Belisario,2009
+Venezuela,Edwin Bellorin,2009
+KY,Brad Bergesen,2009
+WI,Jason Berken,2009
+Curacao,Roger Bernadina,2009
+OH,Brian Bixler,2009
+PA,Kyle Blanks,2009
+TN,Jerry Blevins,2009
+GA,Mitchell Boggs,2009
+GA,Eddie Bonine,2009
+MS,Julio Borbon,2009
+TX,Lance Broadway,2009
+CA,Billy Buckner,2009
+OK,Ryan Budde,2009
+GA,Jason Bulger,2009
+IN,Bryan Bullington,2009
+Nicaragua,Everth Cabrera,2009
+CA,Trevor Cahill,2009
+TN,Brett Carroll,2009
+Dominican Republic,Alberto Castillo,2009
+Dominican Republic,Wilkin Castillo,2009
+MD,Brett Cecil,2009
+CA,Jesse Chavez,2009
+KY,Tyler Clippard,2009
+MD,Chris Coghlan,2009
+CA,Phil Coke,2009
+CA,Brooks Conrad,2009
+OR,Trevor Crowe,2009
+Mexico,Luis Cruz,2009
+AK,Aaron Cunningham,2009
+NY,Matt Daley,2009
+Canada,Dave Davidson,2009
+MO,Ross Detwiler,2009
+Dominican Republic,Robinzon Diaz,2009
+CA,Chris Dickerson,2009
+PA,Mark DiFelice,2009
+Dominican Republic,Freddy Dolsi,2009
+KS,Brian Duensing,2009
+Venezuela,Alcides Escobar,2009
+AZ,Nick Evans,2009
+Dominican Republic,Alfredo Figaro,2009
+FL,Jeff Fiorentino,2009
+CA,Carlos Fisher,2009
+CA,Doug Fister,2009
+GA,Dexter Fowler,2009
+VT,Jake Fox,2009
+KS,Luke French,2009
+FL,Jeff Fulchino,2009
+NH,Sam Fuld,2009
+Dominican Republic,Jaime Garcia,2009
+SC,Brett Gardner,2009
+TX,Josh Geer,2009
+MI,Chris Getz,2009
+FL,Alberto Gonzalez,2009
+FL,Gio Gonzalez,2009
+VA,Jeff Gray,2009
+IL,Luke Gregerson,2009
+MI,Charlie Haeger,2009
+DC,Ryan Hanigan,2009
+OK,Tommy Hanson,2009
+OH,Kevin Hart,2009
+Canada,Blake Hawksworth,2009
+OH,Dirk Hayhurst,2009
+CA,David Hernandez,2009
+Dominican Republic,Diory Hernandez,2009
+Cuba,Michel Hernandez,2009
+TX,Danny Herrera,2009
+CA,Alex Hinshaw,2009
+TX,Micah Hoffpauir,2009
+OH,Derek Holland,2009
+CA,David Huff,2009
+IL,Tug Hulett,2009
+AR,Tommy Hunter,2009
+MO,Eric Hurley,2009
+WA,Travis Ishikawa,2009
+CA,Chris Jakubauskas,2009
+TX,Paul Janish,2009
+WI,Jason Jaramillo,2009
+CA,Kevin Jepsen,2009
+OK,Rob Johnson,2009
+CA,Garrett Jones,2009
+Japan,Kenshin Kawakami,2009
+KY,Shawn Kelley,2009
+MO,Bobby Keppel,2009
+PA,Josh Kinney,2009
+NJ,Bobby Korecky,2009
+Canada,George Kottaras,2009
+FL,Matt LaPorta,2009
+IA,Jeff Larish,2009
+VA,Mat Latos,2009
+MS,Brent Leach,2009
+LA,Wade LeBlanc,2009
+OR,Scott Lewis,2009
+WA,Brent Lillibridge,2009
+CA,Drew Macias,2009
+Dominican Republic,Warner Madrigal,2009
+MI,Mitch Maier,2009
+MO,Jay Marshall,2009
+AZ,Lou Marson,2009
+Puerto Rico,Carlos Martinez,2009
+Dominican Republic,Fernando Martinez,2009
+PA,Joe Martinez,2009
+Curacao,Shairon Martis,2009
+Canada,Scott Mathieson,2009
+AZ,Doug Mathis,2009
+MD,Justin Maxwell,2009
+MI,John Mayberry,2009
+NC,Cameron Maybin,2009
+Puerto Rico,Edwin Maysonet,2009
+NJ,Vin Mazzaro,2009
+MS,Bob McCrory,2009
+FL,Andrew McCutchen,2009
+IN,Darnell McDonald,2009
+NY,James McDonald,2009
+CA,Casey McGehee,2009
+CA,Kris Medlen,2009
+WA,Evan Meek,2009
+TX,Jon Meloan,2009
+OH,Dan Meyer,2009
+MT,Kam Mickolio,2009
+Venezuela,Jose Mijares,2009
+TX,Garrett Mock,2009
+Puerto Rico,Luis Montanez,2009
+U. S. Virgin Islands,Jose Morales,2009
+FL,Robert Mosebach,2009
+MI,Jason Motte,2009
+CO,Chris Narveson,2009
+TX,Jeff Niemann,2009
+OH,Jon Niese,2009
+TX,Jayson Nix,2009
+CA,Bud Norris,2009
+MO,Josh Outman,2009
+TN,Matt Palmer,2009
+NC,Bobby Parnell,2009
+Venezuela,Gerardo Parra,2009
+WA,David Patton,2009
+TX,Troy Patton,2009
+LA,Xavier Paul,2009
+Dominican Republic,Felipe Paulino,2009
+Cuba,Brayan Pena,2009
+Dominican Republic,Ramiro Pena,2009
+TX,Cliff Pennington,2009
+Dominican Republic,Luis Perdomo,2009
+FL,Chris Perez,2009
+NJ,Fernando Perez,2009
+CA,Ryan Perry,2009
+NJ,Rick Porcello,2009
+NC,Landon Powell,2009
+TN,David Price,2009
+GA,Colby Rasmus,2009
+TX,Robert Ray,2009
+PA,Nolan Reimold,2009
+Dominican Republic,Argenis Reyes,2009
+IN,Clayton Richard,2009
+Canada,Scott Richmond,2009
+TX,Ryan Roberts,2009
+VA,David Robertson,2009
+Venezuela,Guillermo Rodriguez,2009
+Dominican Republic,Rafael Rodriguez,2009
+MD,Josh Roenicke,2009
+CA,Ricky Romero,2009
+CA,Sergio Romo,2009
+IL,Adam Rosales,2009
+CA,Leo Rosales,2009
+TX,Justin Ruggiano,2009
+NY,Randy Ruiz,2009
+OH,Adam Russell,2009
+CA,Dusty Ryan,2009
+IL,Marc Rzepczynski,2009
+FL,Billy Sadler,2009
+Venezuela,Oscar Salazar,2009
+IN,Jeff Samardzija,2009
+GA,Clint Sammons,2009
+TX,Brian Sanches,2009
+Venezuela,Angel Sanchez,2009
+Venezuela,Romulo Sanchez,2009
+Mexico,Freddy Sandoval,2009
+Puerto Rico,Omir Santos,2009
+NJ,Jordan Schafer,2009
+TX,Steven Shell,2009
+Dominican Republic,Alfredo Simon,2009
+MS,Tony Sipp,2009
+NY,Chris Smith,2009
+MS,Seth Smith,2009
+WA,Travis Snider,2009
+OH,Craig Stammen,2009
+TX,Nick Stavinoha,2009
+Canada,Adam Stern,2009
+IN,Mitch Stetter,2009
+TX,Drew Stubbs,2009
+AR,Drew Sutton,2009
+FL,Anthony Swarzak,2009
+Japan,Ken Takahashi,2009
+TX,Taylor Teagarden,2009
+IN,Joe Thatcher,2009
+Australia,Brad Thomas,2009
+MO,Clete Thomas,2009
+NY,Rich Thompson,2009
+CA,Joe Thurston,2009
+CA,Chris Tillman,2009
+MS,Matt Tolbert,2009
+Dominican Republic,Ramon Troncoso,2009
+Japan,Koji Uehara,2009
+Venezuela,Luis Valbuena,2009
+Dominican Republic,Merkin Valdez,2009
+Dominican Republic,Esmerling Vasquez,2009
+CA,Virgil Vasquez,2009
+MS,Donnie Veal,2009
+CA,Will Venable,2009
+IL,Randy Wells,2009
+TX,Sean West,2009
+FL,Sean White,2009
+GA,Josh Whitesell,2009
+NY,Eli Whiteside,2009
+SC,Matt Wieters,2009
+TX,Randy Williams,2009
+Japan,Yasuhiko Yabuta,2009
+NE,Mike Zagurski,2009
+IL,Clay Zavada,2009
+Canada,Jordan Zimmermann,2009
+Dominican Republic,Winston Abreu,2009
+Mexico,Alfredo Aceves,2009
+Puerto Rico,Jonathan Albaladejo,2009
+MD,Brett Anderson,2009
+NY,Alberto Arias,2009
+Venezuela,Jose Ascanio,2009
+GA,Burke Badenhop,2009
+NJ,Andrew Bailey,2009
+TX,Daniel Bard,2009
+Dominican Republic,Antonio Bastardo,2009
+Venezuela,Yorman Bazardo,2009
+Venezuela,Ronald Belisario,2009
+KY,Brad Bergesen,2009
+WI,Jason Berken,2009
+TN,Jerry Blevins,2009
+GA,Mitchell Boggs,2009
+GA,Eddie Bonine,2009
+TX,Lance Broadway,2009
+CA,Billy Buckner,2009
+GA,Jason Bulger,2009
+IN,Bryan Bullington,2009
+CA,Trevor Cahill,2009
+Dominican Republic,Alberto Castillo,2009
+MD,Brett Cecil,2009
+CA,Jesse Chavez,2009
+KY,Tyler Clippard,2009
+CA,Phil Coke,2009
+NY,Matt Daley,2009
+Canada,Dave Davidson,2009
+MO,Ross Detwiler,2009
+PA,Mark DiFelice,2009
+Dominican Republic,Freddy Dolsi,2009
+KS,Brian Duensing,2009
+Dominican Republic,Alfredo Figaro,2009
+CA,Carlos Fisher,2009
+CA,Doug Fister,2009
+KS,Luke French,2009
+FL,Jeff Fulchino,2009
+NH,Sam Fuld,2009
+Dominican Republic,Jaime Garcia,2009
+TX,Josh Geer,2009
+FL,Alberto Gonzalez,2009
+FL,Gio Gonzalez,2009
+VA,Jeff Gray,2009
+IL,Luke Gregerson,2009
+MI,Charlie Haeger,2009
+OK,Tommy Hanson,2009
+OH,Kevin Hart,2009
+Canada,Blake Hawksworth,2009
+OH,Dirk Hayhurst,2009
+CA,David Hernandez,2009
+TX,Danny Herrera,2009
+CA,Alex Hinshaw,2009
+OH,Derek Holland,2009
+CA,David Huff,2009
+AR,Tommy Hunter,2009
+MO,Eric Hurley,2009
+CA,Chris Jakubauskas,2009
+TX,Paul Janish,2009
+CA,Kevin Jepsen,2009
+OK,Rob Johnson,2009
+CA,Garrett Jones,2009
+Japan,Kenshin Kawakami,2009
+KY,Shawn Kelley,2009
+MO,Bobby Keppel,2009
+PA,Josh Kinney,2009
+NJ,Bobby Korecky,2009
+VA,Mat Latos,2009
+MS,Brent Leach,2009
+LA,Wade LeBlanc,2009
+OR,Scott Lewis,2009
+Dominican Republic,Warner Madrigal,2009
+MI,Mitch Maier,2009
+MO,Jay Marshall,2009
+Puerto Rico,Carlos Martinez,2009
+PA,Joe Martinez,2009
+Curacao,Shairon Martis,2009
+Canada,Scott Mathieson,2009
+AZ,Doug Mathis,2009
+NJ,Vin Mazzaro,2009
+MS,Bob McCrory,2009
+IN,Darnell McDonald,2009
+NY,James McDonald,2009
+CA,Kris Medlen,2009
+WA,Evan Meek,2009
+TX,Jon Meloan,2009
+OH,Dan Meyer,2009
+MT,Kam Mickolio,2009
+Venezuela,Jose Mijares,2009
+TX,Garrett Mock,2009
+FL,Robert Mosebach,2009
+MI,Jason Motte,2009
+CO,Chris Narveson,2009
+TX,Jeff Niemann,2009
+OH,Jon Niese,2009
+CA,Bud Norris,2009
+MO,Josh Outman,2009
+TN,Matt Palmer,2009
+NC,Bobby Parnell,2009
+WA,David Patton,2009
+TX,Troy Patton,2009
+Dominican Republic,Felipe Paulino,2009
+TX,Cliff Pennington,2009
+Dominican Republic,Luis Perdomo,2009
+FL,Chris Perez,2009
+CA,Ryan Perry,2009
+NJ,Rick Porcello,2009
+TN,David Price,2009
+TX,Robert Ray,2009
+IN,Clayton Richard,2009
+Canada,Scott Richmond,2009
+VA,David Robertson,2009
+Dominican Republic,Rafael Rodriguez,2009
+MD,Josh Roenicke,2009
+CA,Ricky Romero,2009
+CA,Sergio Romo,2009
+IL,Adam Rosales,2009
+CA,Leo Rosales,2009
+OH,Adam Russell,2009
+IL,Marc Rzepczynski,2009
+FL,Billy Sadler,2009
+IN,Jeff Samardzija,2009
+TX,Brian Sanches,2009
+Venezuela,Romulo Sanchez,2009
+TX,Steven Shell,2009
+Dominican Republic,Alfredo Simon,2009
+MS,Tony Sipp,2009
+NY,Chris Smith,2009
+WA,Travis Snider,2009
+OH,Craig Stammen,2009
+IN,Mitch Stetter,2009
+FL,Anthony Swarzak,2009
+Japan,Ken Takahashi,2009
+IN,Joe Thatcher,2009
+Australia,Brad Thomas,2009
+NY,Rich Thompson,2009
+CA,Chris Tillman,2009
+Dominican Republic,Ramon Troncoso,2009
+Japan,Koji Uehara,2009
+Dominican Republic,Merkin Valdez,2009
+Dominican Republic,Esmerling Vasquez,2009
+CA,Virgil Vasquez,2009
+MS,Donnie Veal,2009
+IL,Randy Wells,2009
+TX,Sean West,2009
+FL,Sean White,2009
+TX,Randy Williams,2009
+Japan,Yasuhiko Yabuta,2009
+NE,Mike Zagurski,2009
+IL,Clay Zavada,2009
+Canada,Jordan Zimmermann,2009
+TX,Brandon Allen,2010
+Dominican Republic,Pedro Alvarez,2010
+MO,Jake Arrieta,2010
+Puerto Rico,Luis Atilano,2010
+FL,Alex Avila,2010
+Canada,John Axford,2010
+IL,Josh Bell,2010
+CA,Trevor Bell,2010
+WI,Justin Berg,2010
+CA,Brennan Boesch,2010
+TX,Jason Bourgeois,2010
+IL,Peter Bourjos,2010
+IL,Michael Bowden,2010
+FL,Cedrick Bowers,2010
+OH,Andrew Brackman,2010
+NJ,Zach Braddock,2010
+NY,Michael Brantley,2010
+LA,Reid Brignac,2010
+NC,Madison Bumgarner,2010
+CA,Alex Burnett,2010
+IN,Drew Butera,2010
+MA,Josh Butler,2010
+GA,Lorenzo Cain,2010
+Dominican Republic,Esmailin Caridad,2010
+CA,Mike Carp,2010
+Venezuela,Carlos Carrasco,2010
+CA,Chris Carter,2010
+TX,Andrew Cashner,2010
+CA,Jason Castro,2010
+Dominican Republic,Starlin Castro,2010
+Venezuela,Francisco Cervelli,2010
+Venezuela,Jhoulys Chacin,2010
+TX,Brent Clevlen,2010
+FL,Casey Coleman,2010
+GA,Tyler Colvin,2010
+CO,Ike Davis,2010
+FL,Wade Davis,2010
+TX,Sam Demel,2010
+FL,Ian Desmond,2010
+LA,Thomas Diamond,2010
+CA,Jason Donald,2010
+AL,Matt Downs,2010
+NM,Mike Dunn,2010
+OR,Mike Ekstrom,2010
+IL,John Ely,2010
+CA,Barry Enright,2010
+Mexico,Marco Estrada,2010
+Dominican Republic,Neftali Feliz,2010
+Dominican Republic,Juan Francisco,2010
+TX,David Freese,2010
+Colombia,Ernesto Frieri,2010
+FL,Mat Gamel,2010
+Dominican Republic,Sammy Gervacio,2010
+OR,Cole Gillespie,2010
+CA,Chris Gimenez,2010
+Venezuela,Jeanmar Gomez,2010
+OH,Tyler Greene,2010
+CA,Brett Hayes,2010
+PA,Chris Heisey,2010
+FL,David Herndon,2010
+Venezuela,Jonathan Herrera,2010
+NJ,Frank Herrmann,2010
+GA,John Hester,2010
+NJ,Jason Heyward,2010
+,Jim Hoey,2010
+VA,Daniel Hudson,2010
+MS,Dusty Hughes,2010
+TX,Philip Humber,2010
+Japan,Ryota Igarashi,2010
+TX,Austin Jackson,2010
+SC,Steven Jackson,2010
+CA,John Jaso,2010
+CT,Jon Jay,2010
+PA,Chris Johnson,2010
+CA,Ryan Kalish,2010
+CA,Mike Leake,2010
+PA,Anthony Lerew,2010
+Canada,Chris Leroux,2010
+TX,Brad Lincoln,2010
+Nicaragua,Wilton Lopez,2010
+FL,Jonathan Lucroy,2010
+,Matt Maloney,2010
+TX,Jeff Manship,2010
+LA,Tommy Manzella,2010
+Dominican Republic,Victor Marte,2010
+Dominican Republic,Cristhian Martinez,2010
+CO,Brian Matusz,2010
+CA,Mike McCoy,2010
+TX,Daniel McCutchen,2010
+Dominican Republic,Jenrry Mejia,2010
+CO,Mark Melancon,2010
+Cuba,Juan Miranda,2010
+Venezuela,Carlos Monasterios,2010
+TX,Adam Moore,2010
+MO,Scott Moore,2010
+MS,Mitch Moreland,2010
+MO,Logan Morrison,2010
+CA,Daniel Nava,2010
+Dominican Republic,Jordan Norberto,2010
+Australia,Trent Oeltjen,2010
+Dominican Republic,Alexi Ogando,2010
+TX,Logan Ondrusek,2010
+NY,Adam Ottavino,2010
+CO,David Pauley,2010
+CA,Chris Pettit,2010
+GA,Buster Posey,2010
+Puerto Rico,Max Ramirez,2010
+CA,Cesar Ramos,2010
+VA,Clay Rapada,2010
+GA,Josh Reddick,2010
+TX,Will Rhymes,2010
+IN,Dustin Richardson,2010
+Cuba,Francisco Rodriguez,2010
+Cuba,Henry Rodriguez,2010
+Dominican Republic,Esmil Rogers,2010
+WI,Ryan Rohlinger,2010
+Dominican Republic,Carlos Rosa,2010
+CA,Tyson Ross,2010
+CA,Dan Runzler,2010
+TX,James Russell,2010
+NY,Kevin Russo,2010
+OK,Rusty Ryal,2010
+Mexico,Fernando Salas,2010
+CA,Alex Sanabia,2010
+FL,Gaby Sanchez,2010
+Dominican Republic,Carlos Santana,2010
+CA,Sergio Santos,2010
+Canada,Michael Saunders,2010
+MI,Bobby Scales,2010
+AK,Daniel Schlereth,2010
+CO,Travis Schlichting,2010
+VA,Scott Sizemore,2010
+MD,Jordan Smith,2010
+SC,Justin Smoak,2010
+,Giancarlo Stanton,2010
+CA,Jeff Stevens,2010
+IN,Drew Storen,2010
+CA,Stephen Strasburg,2010
+Dominican Republic,Pedro Strop,2010
+Venezuela,Jose Tabata,2010
+Japan,Hisanori Takahashi,2010
+UT,Mitch Talbot,2010
+MS,Craig Tatum,2010
+Japan,Junichi Tazawa,2010
+Panama,Ruben Tejada,2010
+HI,Kanekoa Texeira,2010
+IL,Josh Thole,2010
+CA,Erick Threets,2010
+TX,Jess Todd,2010
+TX,Josh Tomlin,2010
+WA,Matt Tuiasosopo,2010
+Dominican Republic,Raul Valdes,2010
+FL,Danny Valencia,2010
+KY,Jonny Venters,2010
+Cuba,Dayan Viciedo,2010
+PA,Neil Walker,2010
+CA,Brett Wallace,2010
+,Matt Watson,2010
+FL,Ryan Webb,2010
+IL,Robbie Weinhardt,2010
+TX,Bobby Wilson,2010
+GA,Blake Wood,2010
+AR,Travis Wood,2010
+CA,Danny Worth,2010
+MO,Jake Arrieta,2010
+Puerto Rico,Luis Atilano,2010
+FL,Alex Avila,2010
+Canada,John Axford,2010
+CA,Trevor Bell,2010
+WI,Justin Berg,2010
+IL,Michael Bowden,2010
+FL,Cedrick Bowers,2010
+OH,Andrew Brackman,2010
+NJ,Zach Braddock,2010
+NC,Madison Bumgarner,2010
+CA,Alex Burnett,2010
+IN,Drew Butera,2010
+MA,Josh Butler,2010
+Dominican Republic,Esmailin Caridad,2010
+CA,Mike Carp,2010
+Venezuela,Carlos Carrasco,2010
+TX,Andrew Cashner,2010
+Venezuela,Jhoulys Chacin,2010
+FL,Casey Coleman,2010
+CO,Ike Davis,2010
+FL,Wade Davis,2010
+TX,Sam Demel,2010
+LA,Thomas Diamond,2010
+NM,Mike Dunn,2010
+OR,Mike Ekstrom,2010
+IL,John Ely,2010
+CA,Barry Enright,2010
+Mexico,Marco Estrada,2010
+Dominican Republic,Neftali Feliz,2010
+Colombia,Ernesto Frieri,2010
+Dominican Republic,Sammy Gervacio,2010
+CA,Chris Gimenez,2010
+Venezuela,Jeanmar Gomez,2010
+FL,David Herndon,2010
+NJ,Frank Herrmann,2010
+,Jim Hoey,2010
+VA,Daniel Hudson,2010
+MS,Dusty Hughes,2010
+TX,Philip Humber,2010
+Japan,Ryota Igarashi,2010
+SC,Steven Jackson,2010
+CT,Jon Jay,2010
+CA,Mike Leake,2010
+PA,Anthony Lerew,2010
+Canada,Chris Leroux,2010
+TX,Brad Lincoln,2010
+Nicaragua,Wilton Lopez,2010
+,Matt Maloney,2010
+TX,Jeff Manship,2010
+Dominican Republic,Victor Marte,2010
+Dominican Republic,Cristhian Martinez,2010
+CO,Brian Matusz,2010
+CA,Mike McCoy,2010
+TX,Daniel McCutchen,2010
+Dominican Republic,Jenrry Mejia,2010
+CO,Mark Melancon,2010
+Venezuela,Carlos Monasterios,2010
+MS,Mitch Moreland,2010
+Dominican Republic,Jordan Norberto,2010
+Dominican Republic,Alexi Ogando,2010
+TX,Logan Ondrusek,2010
+NY,Adam Ottavino,2010
+CO,David Pauley,2010
+CA,Cesar Ramos,2010
+VA,Clay Rapada,2010
+IN,Dustin Richardson,2010
+Cuba,Francisco Rodriguez,2010
+Cuba,Henry Rodriguez,2010
+Dominican Republic,Esmil Rogers,2010
+Dominican Republic,Carlos Rosa,2010
+CA,Tyson Ross,2010
+CA,Dan Runzler,2010
+TX,James Russell,2010
+Mexico,Fernando Salas,2010
+CA,Alex Sanabia,2010
+CA,Sergio Santos,2010
+AK,Daniel Schlereth,2010
+CO,Travis Schlichting,2010
+MD,Jordan Smith,2010
+CA,Jeff Stevens,2010
+IN,Drew Storen,2010
+CA,Stephen Strasburg,2010
+Dominican Republic,Pedro Strop,2010
+Japan,Hisanori Takahashi,2010
+UT,Mitch Talbot,2010
+Japan,Junichi Tazawa,2010
+Panama,Ruben Tejada,2010
+HI,Kanekoa Texeira,2010
+CA,Erick Threets,2010
+TX,Jess Todd,2010
+TX,Josh Tomlin,2010
+Dominican Republic,Raul Valdes,2010
+FL,Danny Valencia,2010
+KY,Jonny Venters,2010
+FL,Ryan Webb,2010
+IL,Robbie Weinhardt,2010
+GA,Blake Wood,2010
+AR,Travis Wood,2010
+CA,Danny Worth,2010
